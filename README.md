@@ -9,6 +9,9 @@ and how it is connected with other repos. We need also to know, what future plan
 
 ### Overview
 
+Although you can see my list of repos in the github [repo tabs](https://github.com/dgaydukov?tab=repositories), here I will present the full view of my repos.
+How they are connected to each other. More over, below i will write my plans what i'm going to do in the coming months. Keep in mind that plans will change from time 
+to time due to my actual execution of it.
 The full overview you can read [here](https://github.com/dgaydukov/repos-overview-and-future-plans/blob/master/overview.md)
 
 ### Plans
