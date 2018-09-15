@@ -11,7 +11,7 @@ and how it is connected with other repos. We need also to know, what future plan
 
 The full overview you can read [here](https://github.com/dgaydukov/repos-overview-and-future-plans/blob/master/overview.md)
 
-### Plans
+### Plans                        
 
 * Add [mobX](https://github.com/mobxjs/mobx) to my [react](https://github.com/dgaydukov/react-quickstart) project
 * Wrap into [docker](https://docs.docker.com/get-started/part2/) [bitcoin](https://github.com/dgaydukov/nodejs-cce-blockchain-bitcoin) project (add docker-compose.yml)
