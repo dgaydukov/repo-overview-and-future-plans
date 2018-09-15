@@ -4,7 +4,8 @@
 
 Once upon a time, I stumbled at someone's github project. It was a kind of interest to me, and I decided to look for others of his projects. But when I clicked on
 Repositories tabs it was too many of them, and too terse description, so I started to open it one by one, but finally i gave up.  
-The lesson is this.
+The moral of this story is that everybody who has more than 6 repos need a custom page with concise and clear explanation, what repo does, when it can be useful,
+and how it is connected with other repos. We need also to know, what future plans does one have. So this repo is my attempt to implement such a strategy.
 
 ### Overview
 
