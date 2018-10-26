@@ -19,6 +19,7 @@ The full overview you can read [here](https://github.com/dgaydukov/repos-overvie
 
 ### Plans
 
+* rewrite [react-quickstart](https://github.com/dgaydukov/react-quickstart) to [typescript](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 * Add [mobX](https://github.com/mobxjs/mobx) to my [react](https://github.com/dgaydukov/react-quickstart) project
 * Wrap into [docker](https://docs.docker.com/get-started/part2/) [bitcoin](https://github.com/dgaydukov/nodejs-cce-blockchain-bitcoin) project (add docker-compose.yml)
 * Wrap into [docker](https://docs.docker.com/get-started/part2/) [ethereum](https://github.com/dgaydukov/nodejs-cce-blockchain-ethereum) project (add docker-compose.yml)
